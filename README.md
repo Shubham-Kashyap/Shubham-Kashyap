@@ -1,7 +1,7 @@
-- 👋 Hi,my name is shubham and i am a backend developer with 2+ years of work experience
-- 👀 I’m interested in web development and api's development using MERN stack 
-- 🌱 I’m currently learning advance React and Redux state management technologies, about cloud storage etc
-- 💞️ I’m looking to collaborate on projects using MERN stack technologies 
+- 👋 Hi,myself shubham and i am a full stack eveloper with 3+ years of work experience
+- 👀 I’m interested in full stack web development and api's development using MERN/MEAN technologies 
+- 🌱 I’m currently learning advance practices in React and Redux state management technologies, about cloud storage etc
+- 💞️ I’m looking to collaborate on projects using MERN/MEAN stack technologies 
 - 📫 You can reach me on my [**mail**](#) or via [**Linkdin**](https://in.linkedin.com/in/shubham-kashyap-58a310175) **@ShubhamKashyap**
 
 
