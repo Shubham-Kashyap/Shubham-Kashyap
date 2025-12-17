@@ -1,11 +1,46 @@
-- 👋 Hi,myself shubham a full stack eveloper with 3+ years of work experience
-- 👀 I’m interested in full stack web development and api's development using MERN/MEAN technologies 
-- 🌱 I’m currently learning advacne javascript, docker, system design, DSA, advance practices  etc
-- 💞️ I’m looking to collaborate on projects using MERN/MEAN stack technologies 
-- 📫 You can reach me on my [**mail**](shubhamkashyap3026@gmail.com) or via [**Linkdin**](https://in.linkedin.com/in/shubham-kashyap-58a310175) **@ShubhamKashyap**
+## Hi, I'm Shubham 👋
 
+I enjoy solving complex problems and making systems work better than before.
+I naturally think in terms of architecture and flow — not just features or screens.
 
-<!---
-Shubham-Kashyap/Shubham-Kashyap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Over time, I’ve developed a habit of digging deep into technical challenges,
+whether it’s refining frontend interactions, improving backend logic,
+or fixing performance bottlenecks that others tend to skip.
+
+I like getting things right, not just getting them done.
+
+---
+
+### 🛠️ What I Focus On
+- Building clean, scalable, and practical solutions
+- Thinking in systems, not isolated components
+- Debugging and improving existing workflows
+- Writing maintainable code with long-term impact
+- Learning continuously and adapting to new technologies
+
+---
+
+### ⚙️ Tech I Work With
+- JavaScript (Advanced concepts)
+- React / Frontend architecture
+- Backend APIs & system design
+- Databases & performance optimization
+- Docker & modern development workflows
+
+---
+
+### 🚀 How I Work
+- I dive deep and ask the right questions
+- I stay on a problem until it’s fully resolved
+- I prefer momentum over delays
+- I value clarity, ownership, and accountability
+
+---
+
+### 📫 Get in Touch
+- 📧 Email: shubhamkashyap3026@gmail.com  
+- 💼 LinkedIn: [Shubham Kashyap](https://www.linkedin.com/in/shubham-kashyap-58a310175)
+
+---
+
+_Always learning. Always improving. Always building._
