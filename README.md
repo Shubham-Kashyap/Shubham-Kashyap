@@ -3,10 +3,10 @@
 </a>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!;+I'm+Shubham+Kashyap.;+Senior+Software+Engineer;" />
+  <img style="color: black;" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!;+I'm+Shubham+Kashyap.;+Senior+Software+Engineer;" />
 </h1>
 
-<h3 align="center">Full Stack Developer | DevOps | Cloud | AI/ML</h3>
+<!-- <h3 align="center">Full Stack Developer | DevOps | Cloud | AI/ML</h3> -->
 
 
 -----
