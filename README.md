@@ -1,3 +1,15 @@
+<a href="#">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Shubham-Kashyap&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham-Kashyap" />
+</a>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!;+I'm+Shubham+Kashyap.;+Senior+Software+Engineer;" />
+</h1>
+
+<h3 align="center">Full Stack Developer | DevOps | Cloud | AI/ML</h3>
+
+
+-----
 ## Hi, I'm Shubham 👋
 
 I enjoy solving complex problems and making systems work better than before.
